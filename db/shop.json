@@ -1,0 +1,16 @@
+{
+    "candy": {
+        "coins (5)": 10
+    },
+    
+    "coins": {
+        "candy": 3,
+        "Iron Badge": 100,
+        "Bronze Badge": 250,
+        "Silver Badge": 450,
+        "Gold Badge": 800,
+        "Platinum Badge": 1500,
+        "Diamond Badge": 3000,
+        "Champion Badge": 10000 
+    }
+}
